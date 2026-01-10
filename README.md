@@ -25,7 +25,16 @@ JavaScript – Interactivity
 
 Static assets – Images, videos, etc.
 
-
+📁 Project Structure
+Movies-ott-platform/
+├── css/
+│   └── style.css
+├── images/
+├── js/
+│   └── main.js
+├── video/
+├── index.html
+└── README.md
 
 🛠️ How to Run It Locally
 
