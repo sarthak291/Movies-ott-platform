@@ -63,3 +63,10 @@ You can enhance it by fetching real movie data from APIs (e.g., TMDB).
 ✨ Add search and filter
 ✨ Add watchlist feature
 ✨ Convert to a React/Vue app
+
+screenshots:
+![home page](screenshot/pic1.png)
+![home page](screenshot/pic2.png)
+![home page](screenshot/pic3.png)
+![home page](screenshot/pic4.png)
+![home page](screenshot/pic5.png)
