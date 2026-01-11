@@ -65,8 +65,8 @@ You can enhance it by fetching real movie data from APIs (e.g., TMDB).
 ✨ Convert to a React/Vue app
 
 screenshots:
-![home page](screenshot/pic1.png)
-![home page](screenshot/pic2.png)
-![home page](screenshot/pic3.png)
-![home page](screenshot/pic4.png)
-![home page](screenshot/pic5.png)
+![home page](screenshots/pic1.png)
+![home page](screenshots/pic2.png)
+![home page](screenshots/pic3.png)
+![home page](screenshots/pic4.png)
+![home page](screenshots/pic5.png)
